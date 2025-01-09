@@ -56,7 +56,7 @@ header > p{
     padding-left: 10px;
     padding-right: 10px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 nav{
     background-color: var(--cor5);
